@@ -1,5 +1,5 @@
 # Chromebook Pranks
 ```
-Go to [Prank Updater](https://pages.github.com/) to prank people with a fake update
+Go to https://sites.google.com/smmornington.catholic.edu.au/prank-updater/home to prank people with a fake update
 2021 GitZombie1
 ```
