@@ -1,0 +1,13 @@
+<html>
+<div style="padding-top: 56.34%; position: relative; overflow: hidden;"><iframe frameborder="0" allowfullscreen="" scrolling="no" allow="autoplay;fullscreen" src="https://onelineplayer.com/player.html?autoplay=true&autopause=false&muted=true&loop=true&url=https%3A%2F%2Fwww.dropbox.com%2Fs%2F5q28yqrse0345cp%2FUntitled%2520video%2520%25E2%2580%2590%2520Made%2520with%2520Clipchamp.mp4%3Fraw%3D1&poster=&time=false&progressBar=false&overlay=false&muteButton=false&fullscreenButton=false&style=light&quality=auto&playButton=false" style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px;"></iframe>
+<script>
+$(function() {
+  $(document).keyup(function(e) {
+    switch(e.keyCode) {
+    case 13 : open('crash.html','_self'); break;
+    case 8 : open('crash.html','_self'); break;
+    }
+  });
+});
+</script>
+</div>
